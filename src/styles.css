@@ -81,6 +81,27 @@ body {
     line-height: 24px;
     color: #595959;  
   }
+  .my-projects{
+    text-decoration: none;
+    color:#595959 ;
+  }
+  .my-projects-section{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 0in;
+    margin-bottom: 0in;
+  }
+  
+  .projects{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;  ;
+  }
   .my-education-section{
     font-style: normal;
     font-weight: bold;
